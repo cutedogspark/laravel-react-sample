@@ -1,6 +1,7 @@
 {
   "private": true,
   "scripts": {
+    "start": "node server.js",
     "prod": "gulp --production",
     "dev": "gulp watch"
   },
